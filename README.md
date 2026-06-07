@@ -1,0 +1,2 @@
+# 72V-Battery-Pack-Design-Verification-Chemistry-Performance-Analysis
+Since your project revolves around battery engineering, testing, and validation (specifically looking at pack metrics like NMC vs. LFP, voltage limits, and thermal boundaries), you can go far beyond basic bar charts. MATLAB is incredibly powerful for simulating and visualizing electrochemical and BMS (Battery Management System) data.
